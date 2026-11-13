@@ -326,7 +326,7 @@ This project demonstrates how machine learning can be used not only to build a p
 
 The main outcome is a **Random Forest-based customer prioritisation approach** that uses predicted subscription probabilities to help determine which customers should be contacted first.
 
-The final recommendation is conditional on the historical data and illustrative business assumptions. Actual deployment would require current customer data, real campaign economics, capacity information, fairness assessment, and ongoing model monitoring.
+The final recommendation is conditional on the historical data and illustrative business assumptions. Actual deployment would require current customer data, real campaign economics, capacity information, fairness assessment and ongoing model monitoring.
 
 ---
 
